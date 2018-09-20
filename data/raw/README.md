@@ -1,6 +1,6 @@
 ## Raw Data
 
-For each computational study presented in the paper, we downloaded or listed the drugs they found. Among the 276 unique ChEMBL IDs we found from studies, 169 had interaction data in DGIdb. 
+For each computational study presented in the paper, we downloaded or listed the drugs they found. Among the 278 unique ChEMBL IDs we found from studies, 169 had interaction data in DGIdb. 
 
 ### Liu 2016
 
