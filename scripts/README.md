@@ -102,3 +102,7 @@ Result: ./results/circularHeatmap.pdf
 
 * './data/processed/study_drug_gene_literature_masterList.tsv'
 * './data/processed/study_pathway_literature_masterList.tsv'
+
+## 9. Basic Stats (09-basicStats.R)
+
+Script to calculate basic stats given under 'Assessing the similarities between these twelve in silico studies' title in the paper.
